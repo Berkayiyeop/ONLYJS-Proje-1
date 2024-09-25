@@ -1,0 +1,26 @@
+
+.nav-bg{
+  background-color: #2C3E50 !important;
+}
+.avatar-container{
+  background-color: rgb(0, 255, 170);
+}
+.about-container{
+  background-color: rgb(84, 15, 148);
+}
+.footer-container{
+  background-color: rgb(233, 212, 93);
+}
+.btn{
+  border-radius: 12px;
+  padding-top: 5px;
+}
+.footer-container{
+  background-color: rgb(115, 104, 226);
+}
+a{
+  color: green;
+}
+.alt-container{
+background-color: aqua;
+}
